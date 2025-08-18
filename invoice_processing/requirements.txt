@@ -1,0 +1,16 @@
+# Web automation
+selenium
+webdriver-manager
+
+# Data wrangling
+pandas
+numpy
+
+# String matching
+rapidfuzz
+
+# Excel I/O
+openpyxl
+
+# Environment variables (if you use .env file for credentials)
+python-dotenv
