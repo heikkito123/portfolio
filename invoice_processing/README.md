@@ -3,6 +3,7 @@
 This project automates downloading and processing invoice data into a cleaned, project-tagged excel report. It solved a small company problem of not having a full
 project management system and interface between different components. Invoicing still required manual handling after the script spat out the resulting excel-files,
 but the finished script reduced hours upon hours of manual invoice handling, reduced invoice error rates and return rates to essentially my own typos in the sent invoices.
+V0.2 -> migrate external excel files into a database and refine sript for robustness and error handling.
 
 ## DISCLAIMER
 - Sample outputfiles are as of 18.8.2025 generated for portfolio display purposes
