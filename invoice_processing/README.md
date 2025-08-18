@@ -5,8 +5,13 @@ project management system and interface between different components. Invoicing 
 but the finished script reduced hours upon hours of manual invoice handling, reduced invoice error rates and return rates to essentially my own typos in the sent invoices.
 
 ## DISCLAIMER
-- Sample outputfiles are as of 18.8.2025 generated for portfolio display purposes -> TODO: update sample input and fix environment variables + static paths
-- All credentials removed, all file paths removed (though to run this, one would need to fill in only one static folder path and credentials)
+- Sample outputfiles are as of 18.8.2025 generated for portfolio display purposes
+  -> TODO: update sample input and fix environment variables + static paths
+- Sample input files missing as of 18.8.2025:
+  -> Suppliers resided in another file, tagged with VAT information
+  -> Current running list of managed invoices missing
+  -> TODO: add mock suppliers list for workflow, possibly add managed invoice listing
+- All credentials removed, all file paths removed
 - Our invoice handling system was only for invoice settlement, not for anything else. The only way to handle invoces via EMCE for me was to
   first comment them in the system and then at certain time intervals download and handle them via excel.
 
