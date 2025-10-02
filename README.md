@@ -7,27 +7,34 @@ For allmost 10 years I ran a construction company (turnover €2.7M–€4M, pro
 ---
 
 ## Education
-- **Metropolia University of Applied Sciences** – Information & Communications Technology (120 ECTS, self-study, enrolled 2/2024)  
+- **Metropolia University of Applied Sciences** – Information & Communications Technology (120 ECTS, self-study, enrolled 2/2024)
+- Advanced data-analytics at Taitotalo (ongoing until 6/2026)
 - Full-time studies since 5/2025 (previously alongside company management)  
 - Focus areas: mathematics, programming, data-analytics and software development
 
 ---
 
 ## Current Studies
-- **Programming:**  
+- **Data-Analtytics**
+  - Currently studying advanced data-analytics concepts at Taitotalo
+  - Studying also includes Information & Communications courses from Metropolia curriculum
+- **Programming:**
+  - Python for data-analytics and web-ui
   - JavaScript (browser environment → React & React Native)  
   - C (K&R → The Linux Programming Interface by Michael Kerrisk)  
 - **Mathematics:**  
-  - Completed: foundations through integral calculus  
-  - Next: probability & statistics, vectors & linear algebra, multivariable functions, differential equations  
+  - Currently: statistics and probabilities, multivariable functions
+  - Next: differential equations, vectors & linear algebra, real analysis
   - Interest in applications to classical mechanics and computational modeling  
 
 ---
 
 ## Skills
-- **Python:** pandas, numpy, matplotlib, selenium, django, OOP  
+- **Python:** pandas, numpy, matplotlib, seaborn, BeautifulSoup, selenium, django, OOP, Flask
 - **C:** systems utilities, OS-level programming (learning with *TLPI*)  
-- **JavaScript:** browser DOM, fundamentals; studying React & React Native  
+- **JavaScript:** browser DOM, NODE fundamentals
+- **React Native:** basics of app-development
+- **MSOffice:** Excel, Word
 - **Other:** project management, analytical problem-solving, technical writing
 
 ---
